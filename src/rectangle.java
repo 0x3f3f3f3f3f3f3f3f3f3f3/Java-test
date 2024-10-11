@@ -6,6 +6,8 @@ public class rectangle {
         this.width = width;
         this.height=height;
     }
+    
+
 
     public rectangle() {
         this(10,10);
